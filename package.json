@@ -1,0 +1,8 @@
+{
+  "name": "erd-edge-cases",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:ERD-Codegen/erd-edge-cases.git",
+  "author": "Ivan Charapanau <mail@av.codes>",
+  "license": "MIT"
+}
